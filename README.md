@@ -2,6 +2,7 @@
 
 Wiki for managing content related to community growth of Skycoin Project.
 
+
 ## Intro
 
 Skycoin is a great technology and a revolutionary suite of tools that have the potential to create a fairer, uncontrollable and decentralized internet.
