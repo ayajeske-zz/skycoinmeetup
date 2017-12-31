@@ -32,7 +32,9 @@ It is essential that the message would be kept consistent. Everybody should be o
 * how the technology works
 * the financial incentive
 * the current status
-Given the above points, it is important that the activities within the Meetups would not be confined solely to boring presentations or pedantic powerpoints, but would include hands-on workshops on the different side of the technology. In that respect, well thought hackathons could be very interesting. Some examples of activities:
+Given the above points, it is important that the activities within the Meetups would not be confined solely to boring presentations or pedantic powerpoints, but would include hands-on workshops on the different side of the technology. In that respect, well thought hackathons could be very interesting. 
+
+### Examples of Activities
 - Installing a node
 - Create a CX-based smart contract
 - Demonstrate a demo ICO, which token distribution is based on CX programming language
@@ -40,6 +42,7 @@ Given the above points, it is important that the activities within the Meetups w
 - Persisting data on CXO
 - Assembling a Skyminer
 - Joining the testnet (as soon as it is running)
+- Add SKY to cold storages (e.g. Ledger Nano)
 
 ### Meetup Team
 Having good teams on the territory is key for the success of the meetup. Ideally, the team managing a local meetup, should include 2 or 3 members with different competencies. Good candidates are skycoin enthusiasts with a good network and some experience in at least two of the following:
